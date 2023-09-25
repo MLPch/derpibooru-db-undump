@@ -59,7 +59,7 @@ Attention
 ---
 The database is completely open to connections from the host machine, as well as to connections from the outside if you do not have a firewall configured.
 
-Make changes to the [external-access.sh](dump/external-access.sh) file if you don't want to do this
+Make changes to the [external-access.sh](dump/external-access.sh) file if you don't want to do this. 
 Related Materials:
 - [listen addresses](https://www.postgresql.org/docs/current/runtime-config-connection.html#GUC-LISTEN-ADDRESSES)
 - [postgresql.conf](https://www.postgresql.org/docs/current/config-setting.html#CONFIG-SETTING-CONFIGURATION-FILE)
